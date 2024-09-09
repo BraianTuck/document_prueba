@@ -1,16 +1,11 @@
-{
-    "template_id": "licitacion_antel_2023",
-    "template_name": "Pliego de Condiciones T cnicas - Licitaci n Antel",
-    "description": "Template para la licitaci n de servicios profesionales para el dise o e implementaci n de modelos de Aprendizaje Autom tico e Inteligencia Artificial para Antel.",
-    "sections": [
-        {
-            "section_id": "1",
-            "section_name": "Objeto",
-            "summary": "Descripci n del objeto de la licitaci n.",
-            "content": "Antel llama a licitaci n para la contrataci n de servicios profesionales para el dise o e implementaci n de modelos de Aprendizaje Autom tico e Inteligencia Artificial orientados a servicios internos de la Administraci n y para el soporte experto en Gobierno de Datos. Antel se reserva el derecho de hacer uso de opci n de hasta un 100% del monto adjudicado.",
-            "required": true,
-            "static": true,
-            "variables": []
-        },
-    ]
-}
+section_id": "1"
+
+"section_name": "Objeto"
+
+"summary": "Descripci n del objeto de la licitaci n."
+
+"content": "Antel llama a licitaci n para la contrataci n de servicios profesionales para el dise o e implementaci n de modelos de Aprendizaje Autom tico e Inteligencia Artificial orientados a servicios internos de la Administraci n y para el soporte experto en Gobierno de Datos. Antel se reserva el derecho de hacer uso de opci n de hasta un 100% del monto adjudicado."
+
+"required": true
+
+"static": true
