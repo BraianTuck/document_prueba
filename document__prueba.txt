@@ -12,29 +12,5 @@
             "static": true,
             "variables": []
         },
-        {
-            "section_id": "2",
-            "section_name": "Alcance",
-            "summary": "Descripci n del alcance del trabajo y los perfiles t cnicos necesarios.",
-            "content": "La empresa adjudicataria deber  trabajar junto con el personal de Antel sobre la plataforma de Big Data e IA disponibles en la organizaci n, de acuerdo a lo especificado en el {anexo_4}, en lo que refiere al dise o, implementaci n y ejecuci n de los trabajos que vayan surgiendo en los diferentes proyectos. Los resultados de los diferentes an lisis podr n entregarse mediante dashboards din micos, CSV, APIs, bases de datos, entre otros. En todos los casos los algoritmos, desarrollos, an lisis o productos obtenidos durante la ejecuci n de la contrataci n ser n propiedad de Antel, sin poder ser replicado estos estudios en otros operadores o empresas. El personal deber  tener las capacidades para trabajar sobre la plataforma tecnol gica de Big Data e IA de Antel. En caso de que el personal propuesto por la empresa requiera capacitaci n en la plataforma a ser utilizada, dicha transferencia de conocimientos ser  proporcionada por el equipo de Antel. Las horas de dicha transferencia no ser n facturadas por la empresa de acuerdo a lo dispuesto en el numeral {numeral_6_1}.",
-            "required": true,
-            "static": false,
-            "variables": [
-                {
-                    "name": "anexo_4",
-                    "type": "string",
-                    "description": "Referencia al anexo 4.",
-                    "required": true,
-                    "default": "Anexo 4"
-                },
-                {
-                    "name": "numeral_6_1",
-                    "type": "string",
-                    "description": "Referencia al numeral 6.1.",
-                    "required": true,
-                    "default": "6.1"
-                }
-            ]
-        }
     ]
 }
