@@ -1,30 +1,30 @@
-﻿template_id licitacion_antel_2023
+template_id bidding_antel_2023
 
-template_name Pliego de Condiciones T cnicas - Licitaci n Antel
+template_name Technical Conditions - Antel Tender
 
-description Template para la licitaci n de servicios profesionales 
+description Template for the bidding of professional services
 
-para el dise o e implementaci n de modelos de Aprendizaje Autom tico e 
+for the design and implementation of Machine Learning and
 
-Inteligencia Artificial para Antel.
+Artificial Intelligence models for Antel.
 
 sections
 
 section_id 1
 
-section_name Objeto
+section_name Object
 
-summary Descripci n del objeto de la licitaci n.
+summary Description of the object of the tender.
 
-content Antel llama a licitaci n para la contrataci n de servicios 
+content Antel calls for bids for the contracting of professional
 
-profesionales para el dise o e implementaci n de modelos de Aprendizaje 
+services for the design and implementation of Machine Learning and
 
-Autom tico e Inteligencia Artificial orientados a servicios internos de la 
+Artificial Intelligence models aimed at internal Administration services
 
-Administraci n y para el soporte experto en Gobierno de Datos. Antel se reserva el 
+and for expert support in Data Governance. Antel reserves the
 
-derecho de hacer uso de opci n de hasta un 100% del monto adjudicado.
+right to make use of the option of up to 100% of the amount awarded.
 
 required true
 
