@@ -1,5 +1,3 @@
-Ciertamente. Aquí está el contenido del documento en texto plano:
-
 Pliego de Condiciones Técnicas - Licitación Antel
 
 Template para la licitación de servicios profesionales para el diseño e implementación de modelos de Aprendizaje Automático e Inteligencia Artificial para Antel.
