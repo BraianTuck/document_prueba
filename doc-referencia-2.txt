@@ -1,0 +1,201 @@
+Pliego de Condiciones Técnicas - Licitación Antel
+
+Template para la licitación de servicios profesionales para el diseño e implementación de modelos de Aprendizaje Automático e Inteligencia Artificial para Antel.
+
+1. Objeto
+
+Antel llama a licitación para la contratación de servicios profesionales para el diseño e implementación de modelos de Aprendizaje Automático e Inteligencia 
+
+Artificial orientados a servicios internos de la Administración y para el soporte experto en Gobierno de Datos. Antel se reserva el derecho de hacer uso de opción 
+
+de hasta un 100% del monto adjudicado.
+
+2. Alcance
+
+La empresa adjudicataria deberá trabajar junto con el personal de Antel sobre la plataforma de Big Data e IA disponibles en la organización, de acuerdo a lo 
+
+especificado en el Anexo 4, en lo que refiere al diseño, implementación y ejecución de los trabajos que vayan surgiendo en los diferentes proyectos. Los 
+
+resultados 
+
+de los diferentes análisis podrán entregarse mediante dashboards dinámicos, CSV, APIs, bases de datos, entre otros. En todos los casos los algoritmos, 
+
+desarrollos, 
+
+análisis o productos obtenidos durante la ejecución de la contratación serán propiedad de Antel, sin poder ser replicado estos estudios en otros operadores o 
+
+empresas. El personal deberá tener las capacidades para trabajar sobre la plataforma tecnológica de Big Data e IA de Antel. En caso de que el personal propuesto 
+
+por la empresa requiera capacitación en la plataforma a ser utilizada, dicha transferencia de conocimientos será proporcionada por el equipo de Antel. Las horas 
+
+de 
+
+dicha transferencia no serán facturadas por la empresa de acuerdo a lo dispuesto en el numeral 6.1.
+
+3. Servicios Profesionales
+
+Se describe a continuación cada perfil:
+
+Arquitecto de Datos y Data Modeler: se encarga de ver las necesidades del negocio y tendencias tecnológicas a largo plazo, define las arquitecturas y herramientas 
+
+tecnológicas necesarias según las necesidades del negocio actuales y futuras.
+
+Ingeniero de Datos: realiza modelos de complejidad media o básica.
+
+Científico de datos: extrae información y conocimiento más complejo a partir de los datos.
+
+Ingeniero IA: desarrolla, implementa, alimenta de datos y despliega en producción los modelos de inteligencia artificial.
+
+Especialista en Gobernanza de datos: define las políticas de seguridad, permisos, zonas de acceso, catálogos de datos, persistencia, linaje, entre otras 
+
+estrategias que definen el buen cuidado y gobierno de los datos.
+
+4. Características del Servicio
+
+4.1 Plazos de cumplimiento de tareas: Las tareas objeto de esta contratación se coordinarán entre las partes durante la ejecución de la contratación.
+
+4.2 Medios de comunicación: Antel y la empresa acordarán, previo al inicio de los servicios, respectivas casillas de correo electrónico donde se enviarán y 
+
+recibirán las comunicaciones necesarias.
+
+4.3 Transferencia de conocimientos: La transferencia de conocimiento será parte del trabajo que deberá realizar cada técnico de la empresa adjudicataria en el 
+
+caso que Antel lo solicite.
+
+4.4 Soporte Lógico: En todos los casos los algoritmos y desarrollos obtenidos durante la ejecución de la contratación serán propiedad de Antel.
+
+5. Metodología de Trabajo
+
+Inicialmente se definirá un flujo de trabajo con un volumen anual para la reserva de recursos en sus diferentes perfiles. Este flujo estará comprendido por 
+
+diferentes tareas que se deberán cumplir y entregar según la planificación acordada entre la empresa adjudicataria y Antel. El plan de trabajo anual estará 
+
+dividido como máximo en 4 bloques y estos 4 bloques estarán comprendidos por entregables que serán especificados en tiempo y forma en un documento de común 
+
+acuerdo.
+
+6. Condiciones del Servicio
+
+6.1 Técnicos afectados al servicio: El personal propuesto por la empresa adjudicataria, antes de ser incorporado al servicio, deberá ser aprobado por Antel.
+
+6.2 Incorporación de nuevos técnicos al servicio: Antel podrá solicitar la incorporación definitiva o temporal de un nuevo técnico al servicio.
+
+6.3 Desvinculación de técnicos: Si durante la ejecución de la contratación, fuera necesaria la desvinculación de un técnico a iniciativa del adjudicatario, este 
+
+deberá comunicarlo por escrito a Antel.
+
+6.4 Condiciones de sustitución de técnicos: El personal propuesto por el adjudicatario, antes de ser incorporado al servicio, deberá ser aprobado por Antel.
+
+7. Cotización
+
+La cotización se deberá realizar en modalidad plaza, en moneda nacional y discriminando los impuestos según la planilla incluida en el Anexo 3. En caso de no 
+
+discriminarlos, se interpretará que los mismos están incluidos en el precio cotizado.
+
+8. Evaluación de Ofertas
+
+Serán consideradas válidas las ofertas que se ajusten a los requerimientos solicitados en el presente pliego de condiciones. El comparativo de ofertas se 
+
+realizará, sobre el monto total sin impuestos que surja de Planilla de Cotización (Anexo 3).
+
+9. Adjudicación
+
+La adjudicación se realizará, por el monto total que surja de la Planilla de Cotización (Anexo 3), a aquella oferta que ajustándose a los requisitos solicitados 
+
+en este pliego, presente el menor precio comparativo. Antel podrá variar la cantidad de horas a ejecutar de los diferentes perfiles, siempre dentro de estas 
+
+especificaciones y del monto total adjudicado.
+
+10. Inicio del Servicio
+
+La fecha de inicio del servicio se coordinará entre Antel y el adjudicatario y no excederá los 30 días corridos contados a partir de la fecha de notificación de 
+
+adjudicación. En caso de incumplimiento en la fecha de inicio coordinada, por razones imputables al adjudicatario, se aplicarán las multas previstas en el 
+
+presente documento.
+
+11. Forma de Pago
+
+La facturación de los servicios profesionales será en forma mensual, a mes vencido, según las horas efectivamente ejecutadas por cada perfil. El pago se efectuará 
+
+dentro del cronograma de pagos de esta Administración, previa aceptación por parte de Antel de la factura respectiva.
+
+12. Ajuste de Precios
+
+Los precios cotizados se ajustarán mensualmente utilizando la siguiente fórmula paramétrica: P = P0 ((IMS/IMS0). Siendo: P = Precio del servicio / de la hora 
+
+ajustado; P0 = Precio del servicio / de la hora cotizado en la propuesta; IMS = Índice Medio de Salarios del Sector Privado del país de dos meses anteriores al 
+
+mes de la prestación del servicio; IMS0 = Índice Medio de Salarios del Sector Privado del país de dos meses anteriores al de la presentación de la propuesta. 
+
+Fuente: INE (Instituto Nacional de Estadística).
+
+13. Incumplimientos
+
+A continuación se describen los incumplimientos de la contratación, por los cuales el adjudicatario será pasible de las multas estipuladas en el presente 
+
+documento:
+
+13.1 Ausencia parcial, total, o desvinculación definitiva de cualquier técnico por un período mayor a 15 días corridos, por iniciativa de la empresa, sin que se 
+
+haya realizado la debida solicitud por escrito a Antel en plazo, o no autorizada por Antel.
+
+13.2 No presentación de los técnicos en las fechas previstas o acordadas excepcionalmente.
+
+13.3 Incumplimiento de los plazos para la ejecución de las tareas atribuidas directamente al adjudicatario.
+
+13.4 Imposibilidad de la empresa de iniciar el servicio con los técnicos propuestos en su propuesta.
+
+13.5 No cumplimiento de los estándares o procedimientos referidos.
+
+13.6 Atraso en el inicio del servicio.
+
+13.7 Mala ejecución de los trabajos causados por acciones que a juicio de Antel se consideren negligentes, debidamente probadas.
+
+14. Multas
+
+14.1 Si la causa del incumplimiento se ajusta a las características en el numeral 13.5, la primera vez que se constate un incumplimiento, se realizará una 
+
+observación por escrito a la empresa adjudicataria. Para los incumplimientos subsiguientes se aplicarán las multas detalladas en el punto 14.6 "Primer 
+
+Incumplimiento", "Segundo Incumplimiento" y "Tercer Incumplimiento", respectivamente.
+
+14.2 Si la causa del incumplimiento se ajusta a las características descritas en el numeral 13.2, se aplicarán las multas de acuerdo al siguiente criterio:
+
+14.2.1 Si la presentación del técnico se realiza dentro de los diez días siguientes al plazo establecido, se aplicará "Primer incumplimiento".
+
+14.2.2 Si la presentación del técnico se realiza entre los días onceavo y vigésimo quinto día, posteriores al plazo establecido, se aplicará "Segundo 
+
+incumplimiento".
+
+14.2.3 Si la presentación del técnico se realiza a partir del vigésimo sexto día posterior al plazo establecido, se aplicará "Tercer incumplimiento".
+
+14.2.4 Alcanzados los 40 días posteriores al plazo establecido, Antel podrá rescindir la contratación sin perjuicio de la aplicación de las multas 
+
+correspondientes.
+
+14.3 Si la causa del incumplimiento se ajusta a las características descritas en el numeral 13.4, la multa será del 10% del monto total adjudicado, sin impuestos.
+
+14.4 Si la causa del incumplimiento se ajusta a las características descritas en el numeral 13.6, la multa será del 1% del monto total adjudicado, sin impuestos, 
+
+por cada día corrido de atraso.
+
+14.5 Para el resto de los incumplimientos incluidos en el artículo 13 la primera vez se aplicará "Primer Incumplimiento", la segunda vez se aplicará "Segundo 
+
+Incumplimiento" y la(s) siguiente(s) "Tercer Incumplimiento".
+
+15. Generalidades
+
+Junto con la propuesta, el oferente deberá presentar:
+
+- Declaración Jurada según modelo que luce como Anexo 6, (según corresponda persona física o persona jurídica), acreditando el cumplimiento del Art. 46 del 
+
+"TOCAF". En caso de no presentación de dicha Declaración Jurada, durante el estudio de las ofertas Antel la requerirá otorgando un plazo para ello.
+
+- Declaración Jurada, según modelo que luce como Anexo 7, acreditando que la prestación de servicios de informática constituye uno de los giros principales de la 
+
+empresa, como mínimo desde 2 (dos) años anteriores a la fecha de apertura de ofertas.
+
+Tener presente que cada declaración jurada deberá venir acompañada de un timbre profesional, según lo establecido en el numeral 3.4 del Pliego de Condiciones 
+
+Generales.
