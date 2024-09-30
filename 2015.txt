@@ -1,7 +1,7 @@
 {
-    "document_id": "2015.pdf",
-    "document_name": "Contratación Licitación Antel",
-    "description": "Template for Antel procurement and tender documents.",
+    "document_id": "2015.txt",
+    "document_name": "Apertura:- 1er Llamado: {fecha_1er_llamado} a las {hora_1er_llamado} - 2do Llamado: {fecha_2do_llamado} a las {hora_2do_llamado} Lugar: {lugar_apertura}.",
+    "description": " ",
     "sections": [
         {
             "section_id": "1",
@@ -72,7 +72,7 @@
                     "default": "Sala de Licitaciones, Edificio José Delia, Nivel 2, Paraguay 2097"
                 }
             ],
-            "embedd": ""
+            "embedd": "Apertura:- 1er Llamado: {fecha_1er_llamado} a las {hora_1er_llamado} - 2do Llamado: {fecha_2do_llamado} a las {hora_2do_llamado} Lugar: {lugar_apertura}."
         },
         {
             "section_id": "3",
@@ -90,7 +90,7 @@
                     "default": "$3.300"
                 }
             ],
-            "embedd": ""
+            "embedd": "Precio del ejemplar de bases y condiciones: {precio_ejemplar} más IVA."
         },
         {
             "section_id": "4",
@@ -122,7 +122,39 @@
                     "default": "2015-09-01"
                 }
             ],
-            "embedd": ""
+            "embedd": "Circular G.A.C. N° {numero_circular} ACLARACIÓN GENERAL De acuerdo con lo dispuesto en el Artículo 10 de la Ley 16.017 del {fecha_ley}, ninguna persona, firma o empresa comercial o industrial podrá intervenir en licitaciones de cualquier clase o llamado de precios ante esta Administración sin exhibir la Credencial Cívica de la persona interviniente, titulares o representantes de dichas empresas, industrias o casas de comercio, en la que deberán estar estampados algunos de los sellos a los que se refieren lo"
+        },
+        {
+            "section_id": "4",
+            "section_name": "Aclaración General",
+            "summary": "Aclaraciones generales según la ley aplicable.",
+            "content": "Circular G.A.C. N° {numero_circular} ACLARACIÓN GENERAL De acuerdo con lo dispuesto en el Artículo 10 de la Ley 16.017 del {fecha_ley}, ninguna persona, firma o empresa comercial o industrial podrá intervenir en licitaciones de cualquier clase o llamado de precios ante esta Administración sin exhibir la Credencial Cívica de la persona interviniente, titulares o representantes de dichas empresas, industrias o casas de comercio, en la que deberán estar estampados algunos de los sellos a los que se refieren los artículos 49, 59 y 8 de la mencionada ley, a partir del {fecha_inicio_ley} y durante los ciento veinte días siguientes.",
+            "required": true,
+            "static": false,
+            "variables": [
+                {
+                    "name": "numero_circular",
+                    "type": "string",
+                    "description": "Número de la circular",
+                    "required": true,
+                    "default": "02/2015"
+                },
+                {
+                    "name": "fecha_ley",
+                    "type": "date",
+                    "description": "Fecha de la ley",
+                    "required": true,
+                    "default": "1989-01-20"
+                },
+                {
+                    "name": "fecha_inicio_ley",
+                    "type": "date",
+                    "description": "Fecha de inicio de la ley",
+                    "required": true,
+                    "default": "2015-09-01"
+                }
+            ],
+            "embedd": "s artículos 49, 59 y 8 de la mencionada ley, a partir del {fecha_inicio_ley} y durante los ciento veinte días siguientes."
         },
         {
             "section_id": "5",
@@ -140,7 +172,7 @@
                     "default": "Certificación notarial acreditando, Lista de clientes y trabajos, Fotocopia autenticada de títulos universitarios, etc."
                 }
             ],
-            "embedd": ""
+            "embedd": "Los datos mínimos a incluir en la presentación de las ofertas son: {documentacion_incluida}"
         },
         {
             "section_id": "6",
@@ -158,7 +190,7 @@
                     "default": "plaza PHN - Precio único de HORA NORMAL de servicio"
                 }
             ],
-            "embedd": ""
+            "embedd": "La empresa deberá cotizar en moneda nacional y en la modalidad {modalidad_cotizacion} de acuerdo con lo definido en el artículo 2 numeral 2.2.7. El precio del servicio se ajustará utilizando la siguiente fórmula paramétrica: Siendo P = Precio del servicio ajustado. IMS: Índice Medio de Salarios del Sector Privado del país, del mes anterior al mes de la prestación del servicio."
         },
         {
             "section_id": "7",
@@ -176,7 +208,7 @@
                     "default": "Cumplir con los aspectos solicitados en los artículos 2, 3, 4, 5 y 6."
                 }
             ],
-            "embedd": ""
+            "embedd": "Las ofertas se evaluarán de acuerdo a los siguientes criterios: {criterios_evaluacion}"
         },
         {
             "section_id": "8",
@@ -194,7 +226,7 @@
                     "default": "IA = PHN * CHN * PHE1 * CHE1 * PHE2 * CHE2 * PDG * CDG"
                 }
             ],
-            "embedd": ""
+            "embedd": "La adjudicación se realizará a aquella oferta que cumpliendo lo dispuesto en el artículo 7 obtenga el menor valor en la fórmula indicada: {formula_adjudicacion}. Independientemente del monto adjudicado, Antel se reserva el derecho de requerir una cantidad de técnicos menor a la indicada."
         },
         {
             "section_id": "9",
@@ -204,7 +236,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "La facturación del servicio básico por parte del adjudicatario será mensual por la cantidad de horas efectivamente realizadas por los técnicos asignados al servicio. La facturación del servicio de guardia será mensual y por la cantidad de días de guardia efectivamente realizados. Los pagos se efectuarán dentro del cronograma de pagos de Antel."
         },
         {
             "section_id": "10",
@@ -222,7 +254,7 @@
                     "default": "Mala ejecución de los trabajos, Ausencia definitiva de cualquier técnico, etc."
                 }
             ],
-            "embedd": ""
+            "embedd": "A continuación se describen los incumplimientos de la contratación por los cuales el adjudicatario será pasible de sanción de acuerdo con las condiciones estipuladas en el artículo 11: {descripcion_incumplimientos}"
         },
         {
             "section_id": "11",
@@ -240,7 +272,7 @@
                     "default": "Multa del 10%, Multa del 20%, Multa del 30%, etc."
                 }
             ],
-            "embedd": ""
+            "embedd": "Si el incumplimiento se debe a las razones indicadas en los numerales c, e, 9 o 9 del artículo 10, la primera vez que se observe un incumplimiento se realizará una observación por escrito a la empresa adjudicataria. Para los incumplimientos subsiguientes se aplicarán las siguientes sanciones: {sanciones}"
         },
         {
             "section_id": "12",
@@ -250,7 +282,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "El solo hecho de cotizar en esta contratación implica por parte de la empresa oferente la aceptación de ésta y de todas las condiciones del Pliego de Condiciones técnicas y generales. Una vez adjudicada, Antel informará a la empresa y recabará su consentimiento, estableciendo el marco regulatorio de las actividades de los técnicos asignados."
         }
     ]
 }
