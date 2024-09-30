@@ -1,7 +1,7 @@
 {
-    "document_id": "pliego_condiciones_001",
+    "document_id": "2021.txt",
     "document_name": "Pliego de Condiciones para Servicios de IA y Big Data",
-    "description": "Documento de licitación para la contratación de servicios profesionales en IA y Big Data para Antel.",
+    "description": " ",
     "sections": [
         {
             "section_id": "1",
@@ -21,7 +21,27 @@
             "required": true,
             "static": true,
             "variables": [],
+            "embedd": "La empresa adjudicataria deberá trabajar junto con el personal de Antel sobre la plataforma de Big Data e IA disponibles en la organización, de acuerdo a lo especificado en el Anexo 4, en lo que refiere al diseño, implementación y ejecución de los trabajos que vayan surgiendo en los diferentes proyectos. Los resultados de los diferentes análisis podrán entregarse mediante dashboards dinámicos, CSV, APIs, bases de datos, entre otros. En todos los casos, los algoritmos y desarrollos obtenidos durante la ejecu"
+        },
+        {
+            "section_id": "2",
+            "section_name": "ALCANCE",
+            "summary": "Descripción del alcance de los servicios requeridos.",
+            "content": "La empresa adjudicataria deberá trabajar junto con el personal de Antel sobre la plataforma de Big Data e IA disponibles en la organización, de acuerdo a lo especificado en el Anexo 4, en lo que refiere al diseño, implementación y ejecución de los trabajos que vayan surgiendo en los diferentes proyectos. Los resultados de los diferentes análisis podrán entregarse mediante dashboards dinámicos, CSV, APIs, bases de datos, entre otros. En todos los casos, los algoritmos y desarrollos obtenidos durante la ejecución de la contratación serán propiedad de Antel, sin poder replicar estos estudios en otros operadores o empresas. El personal deberá tener las capacidades para trabajar sobre la plataforma tecnológica de Big Data e IA de Antel. En caso de que el personal propuesto por la empresa requiera capacitación en la plataforma a ser utilizada, dicha transferencia de conocimientos será proporcionada por el equipo de Antel. Las horas de dicha transferencia no serán facturadas por la empresa de acuerdo a lo dispuesto en el numeral 6.1.",
+            "required": true,
+            "static": true,
+            "variables": [],
             "embedd": "ción de la contratación serán propiedad de Antel, sin poder replicar estos estudios en otros operadores o empresas. El personal deberá tener las capacidades para trabajar sobre la plataforma tecnológica de Big Data e IA de Antel. En caso de que el personal propuesto por la empresa requiera capacitación en la plataforma a ser utilizada, dicha transferencia de conocimientos será proporcionada por el equipo de Antel. Las horas de dicha transferencia no serán facturadas por la empresa de acuerdo a lo dispuesto "
+        },
+        {
+            "section_id": "2",
+            "section_name": "ALCANCE",
+            "summary": "Descripción del alcance de los servicios requeridos.",
+            "content": "La empresa adjudicataria deberá trabajar junto con el personal de Antel sobre la plataforma de Big Data e IA disponibles en la organización, de acuerdo a lo especificado en el Anexo 4, en lo que refiere al diseño, implementación y ejecución de los trabajos que vayan surgiendo en los diferentes proyectos. Los resultados de los diferentes análisis podrán entregarse mediante dashboards dinámicos, CSV, APIs, bases de datos, entre otros. En todos los casos, los algoritmos y desarrollos obtenidos durante la ejecución de la contratación serán propiedad de Antel, sin poder replicar estos estudios en otros operadores o empresas. El personal deberá tener las capacidades para trabajar sobre la plataforma tecnológica de Big Data e IA de Antel. En caso de que el personal propuesto por la empresa requiera capacitación en la plataforma a ser utilizada, dicha transferencia de conocimientos será proporcionada por el equipo de Antel. Las horas de dicha transferencia no serán facturadas por la empresa de acuerdo a lo dispuesto en el numeral 6.1.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "en el numeral 6.1."
         },
         {
             "section_id": "3",
@@ -39,7 +59,7 @@
                     "default": "Ítem I Arquitectura de Datos, Analítica y Gobierno: - Arquitecto de Datos y Data Modeler - Ingeniero de Datos - Científico de datos - Ingeniero 1A - Especialista en Gobernanza de datos Ítem II Desarrollo de Productos: - Traductor Analítico - Desarrollador Full Stack"
                 }
             ],
-            "embedd": ""
+            "embedd": "Para llevar a cabo la contratación, la empresa deberá contar con los siguientes perfiles técnicos: {perfiles_tecnicos}"
         },
         {
             "section_id": "4",
@@ -49,7 +69,27 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "Inicialmente se definirá un flujo de trabajo con un volumen anual para la reserva de recursos en sus diferentes perfiles. Este flujo estará compuesto por diferentes tareas que se deberán cumplir y entregar según la planificación acordada entre la empresa adjudicataria y Antel. El plan de trabajo anual estará dividido en un máximo de 4 bloques, cada uno de los cuales estará compuesto por entregables que serán especificados en tiempo y forma en un documento de común acuerdo. Antes de comenzar el trabajo en un"
+        },
+        {
+            "section_id": "4",
+            "section_name": "METODOLOGÍA DE TRABAJO",
+            "summary": "Descripción de la metodología de trabajo.",
+            "content": "Inicialmente se definirá un flujo de trabajo con un volumen anual para la reserva de recursos en sus diferentes perfiles. Este flujo estará compuesto por diferentes tareas que se deberán cumplir y entregar según la planificación acordada entre la empresa adjudicataria y Antel. El plan de trabajo anual estará dividido en un máximo de 4 bloques, cada uno de los cuales estará compuesto por entregables que serán especificados en tiempo y forma en un documento de común acuerdo. Antes de comenzar el trabajo en un bloque específico, se dividirá en trabajos mensuales y se realizará una estimación de horas según perfiles para alcanzar el bloque de trabajo, el cual será ajustado mensualmente una vez terminado. Los nuevos proyectos se diseñarán y planificarán en conjunto con Antel de forma periódica, y serán implementados mediante metodologías ágiles en sprints con un plazo máximo de 15 días. El alcance de los proyectos quedará definido y registrado en un documento de trabajo inicial y en las historias sucesivas del backlog de trabajo. Se asignarán tareas a los diferentes perfiles, que irán desde la ingesta, gobierno, catalogación, modelado y arquitectura de datos, analítica, modelos de IA, desarrollo de APIs, desarrollo de dashboards, entre otros. Se aplicará una metodología ágil para realizar el seguimiento y la estimación de horas de cada uno de los entregables, desglosados en una apertura mensual que será acordada entre.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": " bloque específico, se dividirá en trabajos mensuales y se realizará una estimación de horas según perfiles para alcanzar el bloque de trabajo, el cual será ajustado mensualmente una vez terminado. Los nuevos proyectos se diseñarán y planificarán en conjunto con Antel de forma periódica, y serán implementados mediante metodologías ágiles en sprints con un plazo máximo de 15 días. El alcance de los proyectos quedará definido y registrado en un documento de trabajo inicial y en las historias sucesivas del bac"
+        },
+        {
+            "section_id": "4",
+            "section_name": "METODOLOGÍA DE TRABAJO",
+            "summary": "Descripción de la metodología de trabajo.",
+            "content": "Inicialmente se definirá un flujo de trabajo con un volumen anual para la reserva de recursos en sus diferentes perfiles. Este flujo estará compuesto por diferentes tareas que se deberán cumplir y entregar según la planificación acordada entre la empresa adjudicataria y Antel. El plan de trabajo anual estará dividido en un máximo de 4 bloques, cada uno de los cuales estará compuesto por entregables que serán especificados en tiempo y forma en un documento de común acuerdo. Antes de comenzar el trabajo en un bloque específico, se dividirá en trabajos mensuales y se realizará una estimación de horas según perfiles para alcanzar el bloque de trabajo, el cual será ajustado mensualmente una vez terminado. Los nuevos proyectos se diseñarán y planificarán en conjunto con Antel de forma periódica, y serán implementados mediante metodologías ágiles en sprints con un plazo máximo de 15 días. El alcance de los proyectos quedará definido y registrado en un documento de trabajo inicial y en las historias sucesivas del backlog de trabajo. Se asignarán tareas a los diferentes perfiles, que irán desde la ingesta, gobierno, catalogación, modelado y arquitectura de datos, analítica, modelos de IA, desarrollo de APIs, desarrollo de dashboards, entre otros. Se aplicará una metodología ágil para realizar el seguimiento y la estimación de horas de cada uno de los entregables, desglosados en una apertura mensual que será acordada entre.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "klog de trabajo. Se asignarán tareas a los diferentes perfiles, que irán desde la ingesta, gobierno, catalogación, modelado y arquitectura de datos, analítica, modelos de IA, desarrollo de APIs, desarrollo de dashboards, entre otros. Se aplicará una metodología ágil para realizar el seguimiento y la estimación de horas de cada uno de los entregables, desglosados en una apertura mensual que será acordada entre."
         },
         {
             "section_id": "5",
@@ -88,7 +128,46 @@
                     "default": ""
                 }
             ],
-            "embedd": ""
+            "embedd": "El adjudicatario deberá establecer y comunicar por escrito a Antel el nombre y contacto de la persona con la que la Administración se comunicará para todos los efectos de la ejecución del contrato. Asimismo, deberá designar un responsable técnico, quien será la persona encargada de mantener el contacto técnico con Antel y deberá contar con un teléfono móvil. Antel se reserva el derecho de solicitar la sustitución de esta persona durante el contrato si entiende que no cumple satisfactoriamente con sus funcio"
+        },
+        {
+            "section_id": "5",
+            "section_name": "RESPONSABLES",
+            "summary": "Información sobre los responsables designados.",
+            "content": "El adjudicatario deberá establecer y comunicar por escrito a Antel el nombre y contacto de la persona con la que la Administración se comunicará para todos los efectos de la ejecución del contrato. Asimismo, deberá designar un responsable técnico, quien será la persona encargada de mantener el contacto técnico con Antel y deberá contar con un teléfono móvil. Antel se reserva el derecho de solicitar la sustitución de esta persona durante el contrato si entiende que no cumple satisfactoriamente con sus funciones, comunicándolo a la empresa.",
+            "required": true,
+            "static": false,
+            "variables": [
+                {
+                    "name": "responsable_nombre",
+                    "type": "string",
+                    "description": "Nombre del responsable designado.",
+                    "required": true,
+                    "default": ""
+                },
+                {
+                    "name": "responsable_contacto",
+                    "type": "string",
+                    "description": "Contacto del responsable designado.",
+                    "required": true,
+                    "default": ""
+                },
+                {
+                    "name": "responsable_tecnico_nombre",
+                    "type": "string",
+                    "description": "Nombre del responsable técnico designado.",
+                    "required": true,
+                    "default": ""
+                },
+                {
+                    "name": "responsable_tecnico_telefono",
+                    "type": "string",
+                    "description": "Teléfono del responsable técnico designado.",
+                    "required": true,
+                    "default": ""
+                }
+            ],
+            "embedd": "nes, comunicándolo a la empresa."
         },
         {
             "section_id": "6",
@@ -98,7 +177,17 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "6.1 Técnicos asignados al servicio. El personal propuesto por la empresa adjudicataria deberá ser aprobado por Antel antes de ser incorporado al servicio, pudiendo la Administración, a su discreción, realizar una prueba de conocimientos. Las horas utilizadas para esta prueba no serán facturables por la empresa adjudicataria. Si el resultado de la prueba no cumple con los requisitos establecidos en el Anexo 1 de Antel, la empresa deberá sustituir al técnico según lo establecido en los numerales 6.3 y 6.4. La"
+        },
+        {
+            "section_id": "6",
+            "section_name": "CONDICIONES DEL SERVICIO",
+            "summary": "Condiciones específicas del servicio.",
+            "content": "6.1 Técnicos asignados al servicio. El personal propuesto por la empresa adjudicataria deberá ser aprobado por Antel antes de ser incorporado al servicio, pudiendo la Administración, a su discreción, realizar una prueba de conocimientos. Las horas utilizadas para esta prueba no serán facturables por la empresa adjudicataria. Si el resultado de la prueba no cumple con los requisitos establecidos en el Anexo 1 de Antel, la empresa deberá sustituir al técnico según lo establecido en los numerales 6.3 y 6.4. La empresa debe comenzar el servicio con los técnicos propuestos en su propuesta, salvo que existan razones debidamente justificadas y aceptadas por Antel, en cuyo caso deberá reemplazar al técnico por otro con igual o mayor conocimiento y experiencia. De lo contrario, la Administración se reserva el derecho de rescindir el contrato y aplicar sanciones según lo establecido en el presente documento.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": " empresa debe comenzar el servicio con los técnicos propuestos en su propuesta, salvo que existan razones debidamente justificadas y aceptadas por Antel, en cuyo caso deberá reemplazar al técnico por otro con igual o mayor conocimiento y experiencia. De lo contrario, la Administración se reserva el derecho de rescindir el contrato y aplicar sanciones según lo establecido en el presente documento."
         },
         {
             "section_id": "7",
@@ -108,7 +197,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "La cotización se deberá realizar en modalidad plaza, en moneda nacional y discriminando los impuestos según la planilla incluida en el Anexo 3. En caso de no discriminarlos, se interpretará que los mismos están incluidos en el precio cotizado. Los precios se ajustarán según lo establecido en el capítulo 12 Ajuste de Precios del presente pliego y según lo establecido en el capítulo 4 Precios del Pliego de Condiciones Generales."
         },
         {
             "section_id": "8",
@@ -118,7 +207,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "Serán consideradas válidas las ofertas que se ajusten a los requisitos solicitados en el presente pliego de condiciones. El comparativo de ofertas se realizará por ítem, sobre el monto total sin impuestos que surja de cada Planilla de Cotización Anexo 3."
         },
         {
             "section_id": "9",
@@ -128,7 +217,27 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "La adjudicación se realizará por ítem, por el monto total que surja de la Planilla de Cotización correspondiente a cada ítem, a aquella oferta que, ajustándose a los requisitos solicitados en este pliego, presente el menor precio comparativo por ítem. Antel podrá variar la cantidad de horas a ejecutar de los diferentes perfiles dentro de cada ítem, siempre dentro de estas especificaciones y del monto total adjudicado. La Administración se reserva el derecho a no ejecutar la totalidad de la contratación. Asi"
+        },
+        {
+            "section_id": "9",
+            "section_name": "ADJUDICACIÓN",
+            "summary": "Proceso de adjudicación del contrato.",
+            "content": "La adjudicación se realizará por ítem, por el monto total que surja de la Planilla de Cotización correspondiente a cada ítem, a aquella oferta que, ajustándose a los requisitos solicitados en este pliego, presente el menor precio comparativo por ítem. Antel podrá variar la cantidad de horas a ejecutar de los diferentes perfiles dentro de cada ítem, siempre dentro de estas especificaciones y del monto total adjudicado. La Administración se reserva el derecho a no ejecutar la totalidad de la contratación. Asimismo, se reserva el derecho de no ejecutar algún perfil adjudicado. No serán de cargo de la Administración los costos asociados a la no ejecución de la contratación. El monto a adjudicar será máximo y, en caso de ejecución parcial, el saldo remanente no generará derecho de cobro alguno a favor del adjudicatario. Antel podrá adjudicar por concepto de adecuación de proyecto para la resolución de situaciones imprevistas, hasta un monto equivalente al 10% del monto a adjudicar. En caso de no ejecutar dicho monto o ejecutarlo parcialmente, el saldo remanente no dará derecho a cobro alguno a favor de la empresa.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "mismo, se reserva el derecho de no ejecutar algún perfil adjudicado. No serán de cargo de la Administración los costos asociados a la no ejecución de la contratación. El monto a adjudicar será máximo y, en caso de ejecución parcial, el saldo remanente no generará derecho de cobro alguno a favor del adjudicatario. Antel podrá adjudicar por concepto de adecuación de proyecto para la resolución de situaciones imprevistas, hasta un monto equivalente al 10% del monto a adjudicar. En caso de no ejecutar dicho mon"
+        },
+        {
+            "section_id": "9",
+            "section_name": "ADJUDICACIÓN",
+            "summary": "Proceso de adjudicación del contrato.",
+            "content": "La adjudicación se realizará por ítem, por el monto total que surja de la Planilla de Cotización correspondiente a cada ítem, a aquella oferta que, ajustándose a los requisitos solicitados en este pliego, presente el menor precio comparativo por ítem. Antel podrá variar la cantidad de horas a ejecutar de los diferentes perfiles dentro de cada ítem, siempre dentro de estas especificaciones y del monto total adjudicado. La Administración se reserva el derecho a no ejecutar la totalidad de la contratación. Asimismo, se reserva el derecho de no ejecutar algún perfil adjudicado. No serán de cargo de la Administración los costos asociados a la no ejecución de la contratación. El monto a adjudicar será máximo y, en caso de ejecución parcial, el saldo remanente no generará derecho de cobro alguno a favor del adjudicatario. Antel podrá adjudicar por concepto de adecuación de proyecto para la resolución de situaciones imprevistas, hasta un monto equivalente al 10% del monto a adjudicar. En caso de no ejecutar dicho monto o ejecutarlo parcialmente, el saldo remanente no dará derecho a cobro alguno a favor de la empresa.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "to o ejecutarlo parcialmente, el saldo remanente no dará derecho a cobro alguno a favor de la empresa."
         },
         {
             "section_id": "10",
@@ -138,7 +247,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "La fecha de inicio del servicio se coordinará entre Antel y el adjudicatario y no excederá los 30 días corridos contados a partir de la fecha de notificación de adjudicación. En caso de incumplimiento en la fecha de inicio coordinada, por razones imputables al adjudicatario, se aplicarán las multas previstas en el presente documento."
         },
         {
             "section_id": "11",
@@ -148,7 +257,7 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "La facturación de los servicios profesionales, destinados a cada ítem, será de forma mensual, a mes vencido, según las horas efectivamente ejecutadas por cada perfil. El pago se efectuará dentro del cronograma de pagos de esta Administración, previa aceptación por parte de Antel de la factura respectiva."
         },
         {
             "section_id": "12",
@@ -158,7 +267,37 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "Los precios cotizados se ajustarán mensualmente utilizando la siguiente fórmula paramétrica: P = Po + IMS*IMS. Siendo P el precio del servicio por hora ajustado y Po el precio del servicio por hora cotizado en la propuesta. IMS representa el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores al mes de la prestación del servicio. IMS también es el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores a la presentación de la propuesta. La fuente es el I"
+        },
+        {
+            "section_id": "12",
+            "section_name": "AJUSTE DE PRECIOS",
+            "summary": "Detalles sobre el ajuste de precios.",
+            "content": "Los precios cotizados se ajustarán mensualmente utilizando la siguiente fórmula paramétrica: P = Po + IMS*IMS. Siendo P el precio del servicio por hora ajustado y Po el precio del servicio por hora cotizado en la propuesta. IMS representa el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores al mes de la prestación del servicio. IMS también es el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores a la presentación de la propuesta. La fuente es el INE, Instituto Nacional de Estadística. En caso de que la empresa proponente presente una fórmula paramétrica distinta a la indicada en este capítulo, Antel se reserva el derecho de considerarla o no. En caso de no considerarla, se regirá por lo establecido en el presente Pliego de Condiciones. El adjudicatario que solicite ajuste de precios deberá remitir la liquidación detallada con el cálculo correspondiente. La actualización de precios deberá ser solicitada a la Gerencia de Área Seguimiento de Contratos de la División Contrataciones, dentro de los 90 días de la prestación de los servicios, debiendo presentar el cálculo correspondiente conforme a la fórmula establecida. Pasados los 90 días de haber presentado la factura básica, Antel no aceptará ni realizará ajustes de precios. En caso de ajustes negativos, Antel podrá comunicarlo a la empresa de oficio. La aceptación o rechazo de las liquidaciones por variaciones de precios quedan a exclusivo juicio de la Administración, tomando como base las normas mencionadas, pudiendo formular, a su vez, la reliquidación que corresponda.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "NE, Instituto Nacional de Estadística. En caso de que la empresa proponente presente una fórmula paramétrica distinta a la indicada en este capítulo, Antel se reserva el derecho de considerarla o no. En caso de no considerarla, se regirá por lo establecido en el presente Pliego de Condiciones. El adjudicatario que solicite ajuste de precios deberá remitir la liquidación detallada con el cálculo correspondiente. La actualización de precios deberá ser solicitada a la Gerencia de Área Seguimiento de Contratos "
+        },
+        {
+            "section_id": "12",
+            "section_name": "AJUSTE DE PRECIOS",
+            "summary": "Detalles sobre el ajuste de precios.",
+            "content": "Los precios cotizados se ajustarán mensualmente utilizando la siguiente fórmula paramétrica: P = Po + IMS*IMS. Siendo P el precio del servicio por hora ajustado y Po el precio del servicio por hora cotizado en la propuesta. IMS representa el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores al mes de la prestación del servicio. IMS también es el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores a la presentación de la propuesta. La fuente es el INE, Instituto Nacional de Estadística. En caso de que la empresa proponente presente una fórmula paramétrica distinta a la indicada en este capítulo, Antel se reserva el derecho de considerarla o no. En caso de no considerarla, se regirá por lo establecido en el presente Pliego de Condiciones. El adjudicatario que solicite ajuste de precios deberá remitir la liquidación detallada con el cálculo correspondiente. La actualización de precios deberá ser solicitada a la Gerencia de Área Seguimiento de Contratos de la División Contrataciones, dentro de los 90 días de la prestación de los servicios, debiendo presentar el cálculo correspondiente conforme a la fórmula establecida. Pasados los 90 días de haber presentado la factura básica, Antel no aceptará ni realizará ajustes de precios. En caso de ajustes negativos, Antel podrá comunicarlo a la empresa de oficio. La aceptación o rechazo de las liquidaciones por variaciones de precios quedan a exclusivo juicio de la Administración, tomando como base las normas mencionadas, pudiendo formular, a su vez, la reliquidación que corresponda.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "de la División Contrataciones, dentro de los 90 días de la prestación de los servicios, debiendo presentar el cálculo correspondiente conforme a la fórmula establecida. Pasados los 90 días de haber presentado la factura básica, Antel no aceptará ni realizará ajustes de precios. En caso de ajustes negativos, Antel podrá comunicarlo a la empresa de oficio. La aceptación o rechazo de las liquidaciones por variaciones de precios quedan a exclusivo juicio de la Administración, tomando como base las normas mencio"
+        },
+        {
+            "section_id": "12",
+            "section_name": "AJUSTE DE PRECIOS",
+            "summary": "Detalles sobre el ajuste de precios.",
+            "content": "Los precios cotizados se ajustarán mensualmente utilizando la siguiente fórmula paramétrica: P = Po + IMS*IMS. Siendo P el precio del servicio por hora ajustado y Po el precio del servicio por hora cotizado en la propuesta. IMS representa el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores al mes de la prestación del servicio. IMS también es el Índice Medio de Salarios del Sector Privado del país de los dos meses anteriores a la presentación de la propuesta. La fuente es el INE, Instituto Nacional de Estadística. En caso de que la empresa proponente presente una fórmula paramétrica distinta a la indicada en este capítulo, Antel se reserva el derecho de considerarla o no. En caso de no considerarla, se regirá por lo establecido en el presente Pliego de Condiciones. El adjudicatario que solicite ajuste de precios deberá remitir la liquidación detallada con el cálculo correspondiente. La actualización de precios deberá ser solicitada a la Gerencia de Área Seguimiento de Contratos de la División Contrataciones, dentro de los 90 días de la prestación de los servicios, debiendo presentar el cálculo correspondiente conforme a la fórmula establecida. Pasados los 90 días de haber presentado la factura básica, Antel no aceptará ni realizará ajustes de precios. En caso de ajustes negativos, Antel podrá comunicarlo a la empresa de oficio. La aceptación o rechazo de las liquidaciones por variaciones de precios quedan a exclusivo juicio de la Administración, tomando como base las normas mencionadas, pudiendo formular, a su vez, la reliquidación que corresponda.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "nadas, pudiendo formular, a su vez, la reliquidación que corresponda."
         },
         {
             "section_id": "13",
@@ -168,7 +307,27 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "A continuación se describen los incumplimientos de la contratación, por los cuales el adjudicatario será pasible de las multas estipuladas en el presente documento: - Ausencia parcial, total o desvinculación definitiva de cualquier técnico por un período mayor a 15 días corridos, por iniciativa de la empresa, sin realizar la debida solicitud por escrito a Antel en plazo, o sin autorización por parte de Antel, incumpliendo lo especificado en el numeral 6.3. - No presentación de los técnicos en las fechas pre"
+        },
+        {
+            "section_id": "13",
+            "section_name": "INCUMPLIMIENTOS",
+            "summary": "Descripción de los incumplimientos y multas aplicables.",
+            "content": "A continuación se describen los incumplimientos de la contratación, por los cuales el adjudicatario será pasible de las multas estipuladas en el presente documento: - Ausencia parcial, total o desvinculación definitiva de cualquier técnico por un período mayor a 15 días corridos, por iniciativa de la empresa, sin realizar la debida solicitud por escrito a Antel en plazo, o sin autorización por parte de Antel, incumpliendo lo especificado en el numeral 6.3. - No presentación de los técnicos en las fechas previstas o acordadas excepcionalmente, incumpliendo lo especificado en los numerales 6.2 y 6.4. - Incumplimiento de los plazos para la ejecución de las tareas atribuidas directamente al adjudicatario, según lo especificado en el numeral 6.5. - Imposibilidad de la empresa de iniciar el servicio con los técnicos propuestos en su propuesta, según lo especificado en el artículo 6.1. - No cumplimiento de los estándares o procedimientos referidos en el numeral 6.9. - Atraso en el inicio del servicio, según lo indicado en el artículo 10. - Mala ejecución de los trabajos causada por acciones que a juicio de Antel se consideren negligentes, debidamente probadas.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "vistas o acordadas excepcionalmente, incumpliendo lo especificado en los numerales 6.2 y 6.4. - Incumplimiento de los plazos para la ejecución de las tareas atribuidas directamente al adjudicatario, según lo especificado en el numeral 6.5. - Imposibilidad de la empresa de iniciar el servicio con los técnicos propuestos en su propuesta, según lo especificado en el artículo 6.1. - No cumplimiento de los estándares o procedimientos referidos en el numeral 6.9. - Atraso en el inicio del servicio, según lo indic"
+        },
+        {
+            "section_id": "13",
+            "section_name": "INCUMPLIMIENTOS",
+            "summary": "Descripción de los incumplimientos y multas aplicables.",
+            "content": "A continuación se describen los incumplimientos de la contratación, por los cuales el adjudicatario será pasible de las multas estipuladas en el presente documento: - Ausencia parcial, total o desvinculación definitiva de cualquier técnico por un período mayor a 15 días corridos, por iniciativa de la empresa, sin realizar la debida solicitud por escrito a Antel en plazo, o sin autorización por parte de Antel, incumpliendo lo especificado en el numeral 6.3. - No presentación de los técnicos en las fechas previstas o acordadas excepcionalmente, incumpliendo lo especificado en los numerales 6.2 y 6.4. - Incumplimiento de los plazos para la ejecución de las tareas atribuidas directamente al adjudicatario, según lo especificado en el numeral 6.5. - Imposibilidad de la empresa de iniciar el servicio con los técnicos propuestos en su propuesta, según lo especificado en el artículo 6.1. - No cumplimiento de los estándares o procedimientos referidos en el numeral 6.9. - Atraso en el inicio del servicio, según lo indicado en el artículo 10. - Mala ejecución de los trabajos causada por acciones que a juicio de Antel se consideren negligentes, debidamente probadas.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "ado en el artículo 10. - Mala ejecución de los trabajos causada por acciones que a juicio de Antel se consideren negligentes, debidamente probadas."
         },
         {
             "section_id": "14",
@@ -178,7 +337,17 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "Los desarrollos realizados por los técnicos de la empresa adjudicataria durante la ejecución de la presente contratación serán propiedad al 100% de Antel. El adjudicatario deberá entregar los códigos fuente y la documentación correspondiente de los mismos desarrollos y funcionalidades. Se exceptúan las modificaciones al código intrínseco del software libre que se utilice, no relacionadas con la actividad específica de Antel, que deban ser aportadas a la comunidad de desarrollo de dicha herramienta bajo la m"
+        },
+        {
+            "section_id": "14",
+            "section_name": "PROPIEDAD INTELECTUAL",
+            "summary": "Propiedad intelectual de los desarrollos realizados.",
+            "content": "Los desarrollos realizados por los técnicos de la empresa adjudicataria durante la ejecución de la presente contratación serán propiedad al 100% de Antel. El adjudicatario deberá entregar los códigos fuente y la documentación correspondiente de los mismos desarrollos y funcionalidades. Se exceptúan las modificaciones al código intrínseco del software libre que se utilice, no relacionadas con la actividad específica de Antel, que deban ser aportadas a la comunidad de desarrollo de dicha herramienta bajo la modalidad de software libre.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "odalidad de software libre."
         },
         {
             "section_id": "15",
@@ -188,7 +357,17 @@
             "required": true,
             "static": true,
             "variables": [],
-            "embedd": ""
+            "embedd": "17.1 Junto con la propuesta, el oferente deberá presentar: - Declaración Jurada según el modelo que figura en el Anexo 6, según corresponda si es persona física o persona jurídica, acreditando el cumplimiento del Art. 46 del TOCAF. - Declaración Jurada, según modelo que figura en el Anexo 7, acreditando que la prestación de servicios de informática constituye uno de los giros principales de la empresa, como mínimo desde dos años anteriores a la fecha de apertura de ofertas. Tener en cuenta que cada declarac"
+        },
+        {
+            "section_id": "15",
+            "section_name": "GENERALIDADES",
+            "summary": "Instrucciones generales y requisitos adicionales.",
+            "content": "17.1 Junto con la propuesta, el oferente deberá presentar: - Declaración Jurada según el modelo que figura en el Anexo 6, según corresponda si es persona física o persona jurídica, acreditando el cumplimiento del Art. 46 del TOCAF. - Declaración Jurada, según modelo que figura en el Anexo 7, acreditando que la prestación de servicios de informática constituye uno de los giros principales de la empresa, como mínimo desde dos años anteriores a la fecha de apertura de ofertas. Tener en cuenta que cada declaración jurada deberá estar acompañada de un timbre profesional, según lo establecido en el numeral 3.4 del Pliego de Condiciones Generales. 17.2 El adjudicatario, previo al inicio de la contratación, deberá firmar el Acuerdo de Confidencialidad Genérico y Único que se adjunta en el Anexo 5, por un período de 10 años, si no lo hubiese firmado aún.",
+            "required": true,
+            "static": true,
+            "variables": [],
+            "embedd": "ión jurada deberá estar acompañada de un timbre profesional, según lo establecido en el numeral 3.4 del Pliego de Condiciones Generales. 17.2 El adjudicatario, previo al inicio de la contratación, deberá firmar el Acuerdo de Confidencialidad Genérico y Único que se adjunta en el Anexo 5, por un período de 10 años, si no lo hubiese firmado aún."
         }
     ]
 }
